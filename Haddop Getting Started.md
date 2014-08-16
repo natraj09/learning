@@ -3,8 +3,8 @@ Hadoop Getting Started
 
 **How to Install in MAC?**
 
-**install brew 
-**brew install hadoop
+* install brew 
+* brew install hadoop
 
 **How to configure Hadoop?**
 
